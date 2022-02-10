@@ -64,3 +64,11 @@ ul {
     list-style-position: inside;
 }
 
+.center{
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+                
+}
