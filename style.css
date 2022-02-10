@@ -38,17 +38,19 @@ body {
     border: 8px solid black;
 }
 
-.circle {
-    height: 50px;
-    width: 50px;
-    background-color: skyblue;
-    border-radius: 50%;
-    float: left;
-}
 
 .rectangle {
-    height: 50px;
-    width: 75px;
-    background-color: darkorange;
-    float: left;
+  fill: orange;
+}
+
+.rectangle:hover {
+  fill: yellow;
+}
+
+.circle {
+  fill: blue;
+}
+
+.circle:hover {
+  fill: green;
 }
