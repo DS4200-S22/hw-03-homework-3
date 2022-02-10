@@ -30,6 +30,10 @@ body {
     width: 650px
 }
 
+.padding2 {
+    padding: 25px 1px 10px 1px;
+}
+
 .border {
     border: 8px solid black;
 }
