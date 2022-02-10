@@ -54,3 +54,7 @@ body {
 .circle:hover {
   fill: green;
 }
+
+h2 {
+    font-size: 1em;
+}
